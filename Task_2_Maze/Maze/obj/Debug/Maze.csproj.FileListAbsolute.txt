@@ -1,0 +1,11 @@
+C:\Users\egord\source\repos\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\egord\source\repos\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\egord\source\repos\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.csproj.SuggestedBindingRedirects.cache
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\egord\source\repos\Maze\Maze\obj\Debug\Maze.pdb
